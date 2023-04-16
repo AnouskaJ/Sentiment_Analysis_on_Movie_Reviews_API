@@ -7,5 +7,7 @@
  * Simple Flask API for performing Sentiment Analysis on textual data using a pre-trained Support Vector Machine (SVM) model.
 
 
-https://user-images.githubusercontent.com/82711261/232309832-eb8213e2-8db6-4376-8205-3b42fe69b757.mp4
+
+https://user-images.githubusercontent.com/82711261/232309866-a5941e4d-0aaa-4a47-a15a-0cef353d5376.mp4
+
 
