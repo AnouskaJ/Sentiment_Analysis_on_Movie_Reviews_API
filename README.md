@@ -5,3 +5,7 @@
    * Naive Bayes
    * Support Vector Classifier (SVC)
  * Simple Flask API for performing Sentiment Analysis on textual data using a pre-trained Support Vector Machine (SVM) model.
+
+
+https://user-images.githubusercontent.com/82711261/232309832-eb8213e2-8db6-4376-8205-3b42fe69b757.mp4
+
